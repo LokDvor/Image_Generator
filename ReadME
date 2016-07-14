@@ -1,0 +1,5 @@
+Usage:
+java -jar ./stream_generator.jar int Image_x int Image_y int Band_x int Band_y int Distance int speed int number of images
+
+It will generate N images into the ./Stream folder 
+
